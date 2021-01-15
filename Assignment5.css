@@ -1,0 +1,92 @@
+.snack {
+width: 20%;
+height:100%;
+position:relative;
+}
+
+
+
+
+.frame{
+width: 90%;
+height: 110%;
+border: 2px solid red;
+
+}
+.snack img{
+  width: 90%;
+  display:block;
+  position: relative;
+  top: 50%;
+  left: 160%;
+
+}
+
+
+.text{
+
+width: 100px;
+height:100px;
+position: relative;
+top: 50%;
+left: 33%;
+
+}
+
+.click{
+  background-color: orange;
+  color: white;
+  padding: 4px;
+  border-radius: 8px;
+  text-decoration: none;
+  width: 120%;
+
+}
+
+.msgblock img{
+  width:30%;
+}
+
+
+
+.msgblock h1{
+
+
+}
+
+.msgblock{
+  position: relative;
+  width: 60%;
+  background-color: orange;
+  margin: auto;
+  margin-top:30%;
+}
+
+.msgblock p{
+
+
+}
+
+.msgblock a{
+
+
+}
+
+
+.modalwindow{
+  position: fixed;
+  top:0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  opacity: 1;
+  pointer-events: none;
+
+}
+
+
+.modelwindow: target{
+
+  opacity: 1;
+  pointer-events: auto;
+}
