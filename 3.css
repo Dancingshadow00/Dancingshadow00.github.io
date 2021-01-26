@@ -1,0 +1,70 @@
+
+.Game{
+  /*border:2px solid black;*/
+  width:auto;
+}
+
+
+.playbutton{
+  float: right;
+  background-color: lightgreen;
+  color:white;
+  border: 2px solid yellow;
+  width: 100px;
+  height: 40px;
+  margin-top: -40px;
+}
+
+.style{
+  text-align: center;
+  /*border: 2-x solid white;*/
+  height: 250px;
+}
+.whiteline{
+margin-top:50px;
+border:4px solid white;
+background-color:white;
+position: absolute;
+width: 100%;
+}
+.randomnumber{
+font-size: 30px;
+background-color: white;
+margin:auto;
+position: relative;
+width: 150px;
+height: 75px;
+}
+.hint{
+
+text-align: center;
+color:white;
+/*border: 2px solid blue;*/
+width: auto;
+height: 30%;
+font-size: 20px;
+}
+
+.box{
+
+top : 100px;
+left: 300px;
+
+background-color: lightgreen;
+color:white;
+border: 2px solid white;
+
+
+}
+
+
+.checkborder{
+
+  float:right;
+  width: 100;
+}
+
+
+.text {
+float:left;
+}
